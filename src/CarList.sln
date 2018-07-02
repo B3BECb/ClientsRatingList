@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarList", "CarList.prj\CarL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarList.Framework", "CarList.Framework.prj\CarList.Framework.csproj", "{FAB1EC0C-031F-423D-B9ED-B5096415EFD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarList.Datastorage", "CarList.Datastorage.prj\CarList.Datastorage.csproj", "{333ACE16-D9A7-493E-A937-D8B316DF18C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarList.Datastorage", "CarList.Datastorage\CarList.Datastorage.csproj", "{FE605AFB-AAC6-47E1-AD32-9527FFC30238}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{FAB1EC0C-031F-423D-B9ED-B5096415EFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAB1EC0C-031F-423D-B9ED-B5096415EFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAB1EC0C-031F-423D-B9ED-B5096415EFD7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{333ACE16-D9A7-493E-A937-D8B316DF18C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{333ACE16-D9A7-493E-A937-D8B316DF18C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{333ACE16-D9A7-493E-A937-D8B316DF18C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{333ACE16-D9A7-493E-A937-D8B316DF18C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE605AFB-AAC6-47E1-AD32-9527FFC30238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE605AFB-AAC6-47E1-AD32-9527FFC30238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE605AFB-AAC6-47E1-AD32-9527FFC30238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE605AFB-AAC6-47E1-AD32-9527FFC30238}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
